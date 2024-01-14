@@ -1,4 +1,4 @@
-A Bottom-Up Approach to Mutual Fund Marketing
+# A Bottom-Up Approach to Mutual Fund Marketing by Analyzing Trending Topics
 This is the final project for the course <a href="http://coursemap.aca.ntu.edu.tw/course_map_all/course.php?code=723+M9900" target="_blank">Fin7067: Fintech-Text Mining and Machine Learning</a> at National Taiwan University. Our group collaborated with <a href="https://www.nomurafunds.com.tw/Web/Content/#/index" target="_blank">Nomura Asset Management</a> to explore ways to reduce investor search cost and improve marketing ROI.  
 
 ## Introduction
